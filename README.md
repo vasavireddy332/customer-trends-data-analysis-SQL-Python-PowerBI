@@ -7,7 +7,7 @@ This project is a complete, industry-standard, end-to-end data analytics workflo
  ┣ 📊 customer_behavior_dashboard.pbix      # Power BI interactive dashboard
  ┗ 📄 README.md
  # SQL — Business Questions Answered
-1. Total revenue by gender
+1.Total revenue by gender
 2.High-value customers who used discounts
 3.Top 5 products by average review rating
 4.Standard vs. Express shipping spend comparison
